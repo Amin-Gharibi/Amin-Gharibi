@@ -11,17 +11,7 @@
 
 ## Development Arsenal 💪🏽
 
-<p>
-  <img src="https://github.com/coherencez/tech-logos/blob/master/html5.png?raw=true" height="60px" />
-  
-  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" height="60px" />
-
-  <img src="https://raw.githubusercontent.com/aniftyco/awesome-tailwindcss/e4c623d0af4296e2d22c4f5d2a79b7de99f307f0/assets/logo.svg" height="45px" />
-
-  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" height="60px"/>
-
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="60px"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,js,git" height="60px" />
 
 <br/>
 
