@@ -22,3 +22,15 @@
 
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="60px"/>
 </p>
+
+<br/>
+
+## Contact Me 🤙🏽
+
+<a href="https://www.linkedin.com/in/mohamadamin-gharibi">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="60px"/>
+</a>
+<a href="https://instagram.com/gharibi.dev">
+  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" height="60px"/>
+</a>
+
