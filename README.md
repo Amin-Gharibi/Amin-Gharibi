@@ -31,6 +31,13 @@
 
 <br/>
 
+## Github Stats ⚡
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=amin-gharibi&show_icons=true&theme=dark" alt="Stats(turn vpn on if you can't see)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amin-gharibi&size_weight=0.5&count_weight=0.5&theme=dark" alt="Top-Langs(turn vpn on if you can't see)" />
+</p>
+
 ## Contact Me 🤙🏽
 
 <a href="https://www.linkedin.com/in/mohamadamin-gharibi">
