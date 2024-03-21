@@ -11,7 +11,7 @@
 
 ## Development Arsenal 💪🏽
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,js,git,regex,python" height="60px" title="html, css, tailwindcss, bootstrap, javascript, git, regex, python" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,js,git,npm,regex,python" height="60px" title="html, css, tailwindcss, bootstrap, javascript, git, npm, regex, python" />
 
 <br/>
 
