@@ -11,13 +11,13 @@
 
 ## Development Arsenal 💪🏽
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,scss,js,git,npm,regex,python" height="60px" title="html, css, tailwindcss, bootstrap, scss, javascript, git, npm, regex, python" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,scss,js,react,git,npm,regex,python" height="60px" title="html, css, tailwindcss, bootstrap, scss, javascript, reactjs, git, npm, regex, python" />
 
 <br/>
 
 ## Currently Learning 🧠
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" height="60px" title="react js" />
+<img src="https://skillicons.dev/icons?i=typescript,linux" height="60px" title="typescript,linux" />
 
 <br/>
 
